@@ -1,0 +1,5 @@
+E:\Tecsup\VI\Aplicaciones Empresariales\Sesion_09\University\Database\bin\Debug\Database.dacpac
+E:\Tecsup\VI\Aplicaciones Empresariales\Sesion_09\University\Database\bin\Debug\Database.dll
+E:\Tecsup\VI\Aplicaciones Empresariales\Sesion_09\University\Database\bin\Debug\Database.pdb
+E:\Tecsup\VI\Aplicaciones Empresariales\Sesion_09\University\Database\obj\Debug\Database.dll
+E:\Tecsup\VI\Aplicaciones Empresariales\Sesion_09\University\Database\obj\Debug\Database.pdb
